@@ -4,6 +4,7 @@ Hi, I'm Yuan, sometimes use rook1e as id. I'm a { software, security } engineer.
 
 ### Active
 
+- 🔨 [Dev Skills](https://github.com/0x2E/dev-skills) - A set of structured workflow skills for AI coding.
 - 📥 [Fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 - 💎 [RawWeb.org](https://rawweb.org/) - The search engine for independent websites
 - ✨ [Writastic](https://writastic.com/) - The AI social media writing assistant
