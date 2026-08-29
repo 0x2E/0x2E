@@ -4,6 +4,9 @@ Hi, I'm Yuan, sometimes use rook1e as id. I'm a { software, security } engineer.
 
 ### Active
 
+- 🌶️ [pi-spice](https://github.com/0x2E/pi-spice) - Small spices for [pi](https://github.com/earendil-works/pi) — tiny, self-contained, zero-dependency extensions
+  - [prefer-modern-cli](https://github.com/0x2E/pi-spice/tree/main/extensions/prefer-modern-cli) - Prefer modern CLI tools (`rg`, `fd`) over `grep`/`find` in hand-written bash search commands
+  - [thinking-preview](https://github.com/0x2E/pi-spice/tree/main/extensions/thinking-preview) - Collapse streaming thinking blocks into a fixed-height live preview; `alt+t` toggles full text
 - 📥 [Fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 - 💎 [RawWeb.org](https://rawweb.org/) - The search engine for independent websites
 - ✨ [Writastic](https://writastic.com/) - The AI social media writing assistant
