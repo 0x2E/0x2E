@@ -4,11 +4,11 @@ Hi, I'm Yuan, sometimes use rook1e as id. I'm a { software, security } engineer.
 
 ### Active
 
-- 🌶️ [pi-spice](https://github.com/0x2E/pi-spice) - Small spices for [pi](https://github.com/earendil-works/pi) — tiny, self-contained, zero-dependency extensions
+- 🌶️ [pi-spice](https://github.com/0x2E/pi-spice) - Small extensions for pi coding agent
   - [collapse-blocks](https://github.com/0x2E/pi-spice/tree/main/extensions/collapse-blocks) - Collapse tool rows and thinking blocks into one-line summaries
   - [prefer-modern-cli](https://github.com/0x2E/pi-spice/tree/main/extensions/prefer-modern-cli) - Prefer modern CLI tools such as `rg` and `fd`
+  - [minimal-subagents](https://github.com/0x2E/pi-spice/tree/main/extensions/minimal-subagents) - Create sub-agents dynamically and run them in parallel
   - [thinking-preview](https://github.com/0x2E/pi-spice/tree/main/extensions/thinking-preview) - Collapse streaming thinking blocks into a compact live preview
-  - [minimal-subagents](https://github.com/0x2E/pi-spice/tree/main/extensions/minimal-subagents) - Dynamically create sub-agents and run them in parallel with one blocking tool; no orchestration, no nesting
 - 📥 [Fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 - 💎 [RawWeb.org](https://rawweb.org/) - The search engine for independent websites
 - ✨ [Writastic](https://writastic.com/) - The AI social media writing assistant
